@@ -1,0 +1,17 @@
+fastapi>=0.116.0,<1.0.0
+uvicorn[standard]>=0.35.0,<1.0.0
+
+pydantic>=2.11.0,<3.0.0
+pydantic-settings>=2.10.0,<3.0.0
+python-dotenv>=1.1.0,<2.0.0
+
+supabase>=2.18.0,<3.0.0
+
+cohere>=5.17.0,<6.0.0
+groq>=0.31.0,<1.0.0
+
+numpy>=2.0.0,<3.0.0
+rapidfuzz>=3.13.0,<4.0.0
+
+httpx>=0.28.0,<1.0.0
+requests>=2.32.0,<3.0.0
